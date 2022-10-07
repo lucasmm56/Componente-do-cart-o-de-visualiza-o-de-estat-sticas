@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;700;800&family=Outfit:wght@100;200;300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;700;800&family=Lexend+Deca&family=Outfit:wght@100;200;300;400;600&display=swap');
+:root{
+    /* Primary */
+    --Very_dark_blue_main_bg: hsl(233, 47%, 7%);
+    --Dark_desaturated_blue_card_bg: hsl(244, 38%, 16%);
+    --Soft_violet_acent: hsl(277, 64%, 61%);
+    /* Neutral */
+    --White_main_heading: hsl(0, 0%, 100%);
+    --Slightly_transparent_white_main: hsla(0, 0%, 100%, 0.75);
+    --Slightly_transparent_white_stat: hsla(0, 0%, 100%, 0.6);
+}
+
