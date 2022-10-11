@@ -129,6 +129,9 @@ span{
             margin-right: 0;
             margin-bottom: 1em;
         }
+        .img_picture{
+            height: 17em;
+        }
     }
     
 }
